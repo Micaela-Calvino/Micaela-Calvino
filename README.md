@@ -1,4 +1,4 @@
-# <span style="color:#FF69B4">Micaela Soledad Calviño</span>
+# **Micaela Soledad Calviño**
 ### 💻 Desarrolladora en Formación | Java, PHP, MySQL, HTML, CSS, y Bootstrap
 
 ## Sobre mí
