@@ -21,7 +21,7 @@ Mi sueño es desarrollar aplicaciones que no solo sean útiles, sino que tambié
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/micaela-soledad-calviño)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/micaela-soledad-calvi%C3%B1o/)
 
 Estoy emocionada por participar en proyectos significativos. ¡Trabajemos juntos para crear soluciones que marquen la diferencia!
 
